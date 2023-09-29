@@ -8,3 +8,4 @@
 ## info
 
 - share only lib
+- full projectfile is in master branch(first commmit version)
