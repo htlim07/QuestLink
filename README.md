@@ -7,5 +7,5 @@
 
 ## info
 
-- share only lib
+- share only lib in this branch
 - full projectfile is in master branch(first commmit version)
